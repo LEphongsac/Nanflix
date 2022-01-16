@@ -1,0 +1,24 @@
+body { 
+  	background: url(image/MembreNantflixBackground.jpg) no-repeat;
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+}
+
+table{
+  	opacity: 75%;
+  	background:black;
+  	margin-top: 10%;
+}
+
+#button_2{
+ 	font-family: calibri;
+  	border: none;
+	padding:10px 20px;
+  	margin-top: 1%;
+  	margin-left: 90%;
+  	background:red;
+  	font-size: 18px;
+  	border-radius: 7px;
+}

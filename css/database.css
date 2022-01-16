@@ -1,0 +1,82 @@
+body{
+	background: url(image/databaseBackground.jpg) no-repeat;
+	background-size:cover;
+	margin-top: 0px!important;
+	margin-left: 0px!important;
+	margin-right: 0px!important;
+}
+
+#tableDatabase {
+	margin-top:3%;
+  	border-collapse: collapse;
+  	width: 80%;
+  	border: 1px solid #ddd;
+ 	font-size: 18px;
+	background-image: url('image/backgroundtable.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#tableDatabase th, #tableDatabase td {
+	text-align: left;
+	padding: 12px;
+}
+
+#tableDatabase tr {
+	border-bottom: 1px solid #ddd;
+}
+
+#tableDatabase tr.header, #tableDatabase tr:hover {
+	background-color: #f1f1f1;
+}
+
+#myInput {
+	background-image: url('image/searchicon.png');
+	background-size:3%;
+  	background-position: 2px 5px;
+ 	background-repeat: no-repeat;
+  	width: 95%;
+  	font-size: 16px;
+  	padding: 12px 20px 12px 40px;
+  	border: 1px solid #ddd;
+  	margin-bottom: 12px;
+}
+
+#button_2{
+ 	font-family: calibri;
+  	border: none;
+	padding:5px 10px;
+  	background:red;
+  	font-size: 15px;
+  	border-radius: 7px;
+	position: absolute;
+	top: 10px;
+    	right: 10px;
+}
+
+#button_1{
+ 	font-family: calibri;
+  	border: none;
+	padding:5px 10px;
+  	background:red;
+  	font-size: 15px;
+  	border-radius: 7px;
+	position: absolute;
+    	top: 10px;
+    	left: 10px;
+}
+
+#border{
+	background-color: black;
+  	width: 100%;
+  	height: 100px;
+	margin:auto;
+	
+}
+
+#border1{
+	background-color:white;
+	width:800px;
+	height:100px;
+	margin:auto;
+}
